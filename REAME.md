@@ -14,3 +14,8 @@ MarkupSafe==2.1.3
 pycparser==2.21
 PyMySQL==1.1.0
 Werkzeug==3.0.1
+
+
+# Instalaciones
+
+# Emproceso
